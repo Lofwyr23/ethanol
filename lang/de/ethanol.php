@@ -10,7 +10,7 @@ return array(
 		'noSuchUser' => 'Es konnte kein solcher Benutzer gefunden werden.',
 		'exceededLoginTries' => 'Bitte warten Sie eine Weile, bevorSie sich erneut anmelden.',
 		'userExists' => 'Es existiert bereits ein Benutzer mit dieser E-Mail-Adresse.',
-		'unableToAuthDriver' => 'Konnte nicht mit ":driver" authentifizieren.',
+		'unableToAuthDriver' => 'Konnte Benutzer nicht mit ":driver" authentifizieren.',
 	),
 	
 	'email' => 'E-Mail',
